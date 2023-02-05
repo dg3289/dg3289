@@ -1,4 +1,10 @@
-### Hi there 👋
+:wave: Hi, I am Dhiraj!
+
+:computer: Coding again after almost a decade of completeing my bachelor's degree in computer science
+
+:books: Currently pursuing Master of Public Administration at Columbia University
+
+:stuck_out_tongue: Fun fact about me: There is no fun fact :stuck_out_tongue_closed_eyes:
 
 <!--
 **dg3289/dg3289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
