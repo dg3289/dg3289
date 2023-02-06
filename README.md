@@ -1,6 +1,6 @@
 :wave: Hi, I am Dhiraj!
 
-:computer: Coding again after almost a decade of completeing my bachelor's degree in computer science
+:computer: Coding again after almost a decade of completing my bachelor's degree in computer science
 
 :books: Currently pursuing Master of Public Administration at Columbia University
 
